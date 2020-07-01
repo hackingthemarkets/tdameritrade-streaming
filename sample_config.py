@@ -1,0 +1,5 @@
+API_KEY = 'abc'
+ACCOUNT_ID = '123456789'
+REDIRECT_URI = 'https://localhost'
+TOKEN_PATH = '/Users/larry/Projects/tdameritrade-streaming/token.pickle'
+CHROMEDRIVER_PATH = '/Users/larry/Projects/tdameritrade-streaming/chromedriver'
